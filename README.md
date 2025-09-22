@@ -32,7 +32,7 @@ This structure provides a simple simulation of a banking system with basic accou
 ### Installation:
 
 1. clone the repository:
-    git clone 
+    git clone https://github.com/Manixhor/PYVault-Banking-System.git
 2. Navigate into the project directory:
     cd PYValut-Banking-System
 3. Create a virtual environment (optional but recommended):
