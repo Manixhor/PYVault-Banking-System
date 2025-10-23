@@ -36,9 +36,9 @@ This structure provides a simple simulation of a banking system with basic accou
 2. Navigate into the project directory:
     cd PYValut-Banking-System
 3. Create a virtual environment (optional but recommended):
-    python3 -m venv venv
+    python3 -m venv env
 4. Activate the virtual environment:
     -> On Mac/Linux:
-        source venv/bin/activate
+        source env/bin/activate
     -> On Windows:
-        .\venv\Scripts\activate
+        .\env\Scripts\activate
